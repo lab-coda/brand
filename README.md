@@ -2,7 +2,7 @@
 
 Logo files for CODA Lab (Cognition · Open Data · Analysis), Department of Psychiatry, University of British Columbia.
 
-For the figure style and fonts, see [lab-coda/coda-style](https://github.com/lab-coda/coda-style).
+<!--For the figure style and fonts, see [lab-coda/coda-style](https://github.com/lab-coda/coda-style). -->
 
 ## Using the logo
 
